@@ -1,0 +1,23 @@
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.link-logo {
+	max-width: 80px;
+	margin-top: 0px;
+}
+
+.logo1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+
+.logout {
+	max-width: 30px;
+	margin-top: 0px;
+}
